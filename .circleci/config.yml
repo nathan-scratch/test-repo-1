@@ -25,5 +25,5 @@ workflows:
     jobs:
       - say-hello:
           context:
-            - teset-org-1-ctx-1
+            - test-org-1-ctx-1
             - test-org-1-ctx-2
